@@ -1,1 +1,2 @@
 new file creted named remoteFile,txt
+Change2 – commit with message as “Change2 in RemoteFile”
